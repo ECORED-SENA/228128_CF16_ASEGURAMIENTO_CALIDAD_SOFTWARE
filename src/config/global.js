@@ -227,22 +227,6 @@ export default {
           centro: 'Centro Nacional Colombo Alemán - Regional Atlántico ',
         },
         {
-          nombre: 'Zvi Grosman',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro Agropecuario “La Granja” - Regional Tolima ',
-        },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Revisor metodológico y pedagógico ',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico ',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander ',
-        },
-        {
           nombre: 'Ana Catalina Córdoba Sus ',
           cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -278,7 +262,7 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
+          nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -288,7 +272,7 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
