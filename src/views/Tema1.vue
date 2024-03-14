@@ -59,7 +59,7 @@
                 .col-8.order-1.my-3
                   .text-white
                     h5 Paso 4 
-                    p Se debe llevar registro, haciendo un énfasis en los errores o dificultades que los usuarios pueden tener en el proceso. 
+                    p Se debe llevar registro, haciendo énfasis en los errores o dificultades que los usuarios pueden tener en el proceso. 
               
                 .col-lg-auto.order-lg-2.my-3 
                   img.img-a.img-t(src='@/assets/curso/temas/9.svg', alt='')                                                              
@@ -110,7 +110,7 @@
 
                       li 
                         i.fas.fa-code.color1
-                        | Es posible que en el rango de tiempo (X) se haya conectado (Z) cantidad de usuarios, pero haya (Z+W) cantidad de sesiones activas. Esto es posible porque cabe la posibilidad que un usuario haya iniciado sesión varias veces en el mismo rango de tiempo. 
+                        | Es posible que en el rango de tiempo (X) se haya conectado (Z) cantidad de usuarios, pero haya (Z+W) cantidad de sesiones activas. Esto es posible porque cabe la posibilidad de que un usuario haya iniciado sesión varias veces en el mismo rango de tiempo. 
 
                       li.mb-0 
                         i.fas.fa-code.color1
@@ -132,7 +132,7 @@
         .row.justify-content-center.px-4
           .col-lg-5.mb-4.mb-md-0
             h4 #[mark.px-2.t4.text-white De alcance (#[i reach])]
-            p Busca medir cuántas veces se vio el contenido de un sitio en específico, en otras palabras, a qué público objetivo alcanzó a llegar el contenido. Algunos ejemplos que se encuentran en sitios, apps o redes sociales, son:
+            p Busca medir cuántas veces se vio el contenido de un sitio en específico, en otras palabras, a qué público objetivo alcanzó a llegar el contenido. Algunos ejemplos que se encuentran en sitios, apps o redes sociales son:
  
             p Búsquedas - #[i Retweets] - Cantidad de #[i likes] - Páginas visitadas o vistas - Cantidad de comentarios.                                                        
           .col-lg-6
@@ -142,7 +142,7 @@
         .row.justify-content-center.px-4
           .col-lg-5.mb-4.mb-md-0
             h4 #[mark.px-2.t4.text-white De comportamiento (#[i engagement])]
-            p Busca medir y entender cómo interactúan los usuarios con el contenido. Algunos ejemplos que se pueden encontrar en páginas, secciones o apps, son:
+            p Busca medir y entender cómo interactúan los usuarios con el contenido. Algunos ejemplos que se pueden encontrar en páginas, secciones o apps son:
  
             p Duración promedio de permanencia de usuarios - Promedio de duración de visita de usuarios - Porcentaje de usuarios que llegaron al final del sitio.                                                        
           .col-lg-6
@@ -159,17 +159,17 @@
             p Una dimensión podría expresarse como el lugar geográfico desde donde se realiza la consulta, el tipo de dispositivo desde que se conecta o los títulos de interés del usuario. 
 
             p La cantidad de dimensiones para una métrica y en este caso para el usuario, pueden ser infinitas, aunque se recomienda trabajar con un número específico y reducido, que sean pertinentes para poder contestar preguntas.     
-          div(titulo="Objetivos (<i>goals</i>) y targets")
-            p Un objetivo es aquella meta a la cual se desea llegar, como por ejemplo, incrementar la cantidad de visitas o aumentar el tiempo de permanencia de un usuario en la navegación de un portal. Por otro lado, el target se expresa de forma numérica, es el estado al cual se desea llegar y está directamente relacionado con los objetivos propuestos, por ejemplo, se desea llegar a 50.000 visitas diarias.  
-          div(titulo="Indicadores clave de performance (KPI)")
+          div(titulo="Objetivos (<i>goals</i>) y <i>targets</i>")
+            p Un objetivo es aquella meta a la cual se desea llegar, como por ejemplo, incrementar la cantidad de visitas o aumentar el tiempo de permanencia de un usuario en la navegación de un portal. Por otro lado, el #[i target] se expresa de forma numérica, es el estado al cual se desea llegar y está directamente relacionado con los objetivos propuestos. Por ejemplo, se desea llegar a 50.000 visitas diarias.  
+          div(titulo="Indicadores clave de <i>performance</i> (KPI)")
             p Son métricas especiales e importantes usadas en las organizaciones para la estrategia funcional y ayudan a determinar el éxito o no de los objetivos establecidos.  
           div(titulo="Marco analítico (<i>Analytical framework</i>)")
-            p Marco analítico (Analytical framework)	La convergencia y combinación de los elementos nombrados previamente, son la base fundamental para el marco analítico, sus beneficios son varios y el alcance está ligado explícitamente de cada caso de aplicación en particular, de lo cual a nivel genérico se puede destacar:                                              
+            p Marco analítico (#[i Analytical framework])	La convergencia y combinación de los elementos nombrados previamente, son la base fundamental para el marco analítico, sus beneficios son varios y el alcance está ligado explícitamente de cada caso de aplicación en particular, de lo cual a nivel genérico se puede destacar:                                              
 
             ul.lista-ul.fa-ul.mb-0                   
               li 
                 i.fas.fa-code.color1
-                | Poder monitorear audiencia y sus comportamientos.
+                | Poder monitorear la audiencia y sus comportamientos.
               li 
                 i.fas.fa-code.color1
                 | Relacionar el producto o servicio desarrollado y los resultados obtenidos.
@@ -301,7 +301,7 @@
       .col-lg-3.my-3
         .bg12.p-3.brad.h-100
           img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/38.svg', alt='')            
-          p(data-aos="fade-down").mb-0 Porcentaje de usuarios que indican el proceso “más satisfactorio” que un producto previo    
+          p(data-aos="fade-down").mb-0 Porcentaje de usuarios que indican el proceso “más satisfactorio” que un producto previo.    
       .col-lg-3.my-3
         .bg12.p-3.brad.h-100
           img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')            
@@ -313,7 +313,7 @@
       .col-lg-3.my-3
         .bg12.p-3.brad.h-100
           img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/41.svg', alt='')            
-          p(data-aos="fade-down").mb-0 Porcentaje de usuario que después de dos horas de uso, recomendaría el producto. 
+          p(data-aos="fade-down").mb-0 Porcentaje de usuario que, después de dos horas de uso, recomendaría el producto. 
 
     Separador 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -408,7 +408,7 @@
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/52.png', alt='')                 
       .col-lg-9.my-3
         .bg16.p-4.brad.mb-4
-          p(data-aos="fade-down").mb-0 Las tendencias y el cambio de comportamiento en los usuarios afectan directamente la forma de uso de las plataformas digitales, por lo que es necesario modificar el diseño e interacción cada cierto tiempo. La usabilidad o en otras palabras la “facilidad de uso” es un término que implica diferentes factores y no solo depende de la interfaz de usuario, factores entre los que se encuentran los conocimientos y habilidades del propio usuario. Por ello, para que un sitio mantenga su nivel de usabilidad, se requiere realizar pruebas constantemente. Este tipo de evaluaciones no son medibles dado que influyen directamente de la percepción de las personas, pero recuerde que es posible verificar y evaluar los factores que influyen en la facilidad de uso, como por ejemplo identificando el comportamiento de los usuarios y el estudio de la efectividad del diseño web.
+          p(data-aos="fade-down").mb-0 Las tendencias y el cambio de comportamiento en los usuarios afectan directamente la forma de uso de las plataformas digitales, por lo que es necesario modificar el diseño e interacción cada cierto tiempo. La usabilidad o en otras palabras, la “facilidad de uso” es un término que implica diferentes factores y no solo depende de la interfaz de usuario, factores entre los que se encuentran los conocimientos y habilidades del propio usuario. Por ello, para que un sitio mantenga su nivel de usabilidad, se requiere realizar pruebas constantemente. Este tipo de evaluaciones no son medibles dado que influyen directamente en la percepción de las personas, pero recuerde que es posible verificar y evaluar los factores que influyen en la facilidad de uso, como por ejemplo identificando el comportamiento de los usuarios y el estudio de la efectividad del diseño web.
 
         h5(data-aos="fade-down").t1 A nivel general, se pueden mencionar algunas herramientas que permitirán aplicar, de forma práctica, el modelo analítico:        
 
@@ -427,9 +427,9 @@
           .col-lg-6.my-3.col-md-auto
             .t2.pe-5                     
               h4.t3.mb-4 Google Analytics 
-              p Es una herramienta tradicional, que es usada para analizar estrategias de marketing, pero a la vez sirve para conocer métricas de información respecto a la usabilidad y experiencia de usuario. Los datos pueden indicar posibles barreras que el usuario encuentra al momento de interactuar con el sitio. 
+              p Es una herramienta tradicional, que es usada para analizar estrategias de #[i marketing], pero a la vez sirve para conocer métricas de información respecto a la usabilidad y experiencia de usuario. Los datos pueden indicar posibles barreras que el usuario encuentra al momento de interactuar con el sitio. 
 
-              p Permite identificar búsquedas internas que realiza el usuario, dado detalles sobre los caminos o flujos que adopta el usuario al momento de navegar, también indica problemas de optimización del SEO y reportes si los usuarios encuentran interés en la información proporcionada en el sitio.  
+              p Permite identificar búsquedas internas que realiza el usuario, dado detalles sobre los caminos o flujos que adopta el usuario al momento de navegar. También indica problemas de optimización del SEO y reportes si los usuarios encuentran interés en la información proporcionada en el sitio.  
           .col-lg-5.my-3.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/55.png', alt="") 
         .row.justify-content-center.align-items-center.p-2

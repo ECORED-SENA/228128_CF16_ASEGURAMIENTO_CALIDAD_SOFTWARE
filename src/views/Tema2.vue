@@ -84,7 +84,7 @@
                   .col-lg-6.my-3.col-md-auto
                     .t2.pe-5                     
                       h4.t3.mb-4 Prevención de errores
-                      p Sistema debe informar previamente sobre posibles incidencias, puede ser que indique si se desea confirmar antes de eliminar un registro, o si se va a editar la información personal, se valide previamente la data, porque será reemplazada con una nueva información. De esta manera, el usuario tomará la decisión de proceder con la acción, conociendo los posibles problemas o incidencias que posteriormente se le puedan presentar.    
+                      p Sistema debe informar previamente sobre posibles incidencias, puede ser que indique si se desea confirmar antes de eliminar un registro, o si se va a editar la información personal, se valide previamente la #[i data], porque será reemplazada con una nueva información. De esta manera, el usuario tomará la decisión de proceder con la acción, conociendo los posibles problemas o incidencias que posteriormente se le puedan presentar.    
                   .col-lg-5.my-3.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/67.png', alt="")
 
@@ -170,9 +170,9 @@
                   div(titulo="Pruebas de usabilidad de guerrilla o de pasillo")
                     p Este tipo de proceso es ejecutado en un espacio con tránsito peatonal, donde se solicita al azar, a personas que sirvan como colaboradores. Estas personas realizan la evaluación del producto y al final responden una encuesta diseñada para poder destacar las acciones establecidas para la prueba.   
                   div(titulo="Pruebas de usabilidad remota no moderada")
-                    p Este tipo de pruebas tienen dos ventajas, la primera es que se realiza por medio de un software de terceros, la cual busca reclutar participantes, con lo que el enfoque será más en investigar y menos en reclutar. En segundo lugar, permitirá a los usuarios interactuar con el producto en su entorno natural, el software usado permite grabar audio y video. Cabe destacar que el permitir que los usuarios interactúen con el producto en su entorno natural es enriquecedor, porque no habrá un experto que dé soporte y las máquinas usadas para su aplicación serán las propias.  
+                    p Este tipo de pruebas tiene dos ventajas, la primera es que se realiza por medio de un #[i software] de terceros, el cual busca reclutar participantes, con lo que el enfoque será más en investigar y menos en reclutar. En segundo lugar, permitirá a los usuarios interactuar con el producto en su entorno natural, el #[i software] usado permite grabar audio y video. Cabe destacar que el permitir que los usuarios interactúen con el producto en su entorno natural es enriquecedor, porque no habrá un experto que dé soporte y las máquinas usadas para su aplicación serán las propias.  
                   div(titulo="Pruebas de usabilidad moderadas")
-                    p Este tipo de pruebas tiene dos ventajas, la primera es interactuar con los participantes en tiempo real, sea por medio de una llamada telefónica o video llamada, con lo que será posible tener una retroalimentación rápida de lo que experimentan y adicionalmente, los comentarios e información dada de la prueba será más clara. La segunda, permitirá a los usuarios mantenerse enfocados, en las funcionalidades o caminos dedicados a la prueba, dejando de lado otros enfoques del producto.                                     
+                    p Este tipo de pruebas tiene dos ventajas, la primera es interactuar con los participantes en tiempo real, sea por medio de una llamada telefónica o video llamada, con lo que será posible tener una retroalimentación rápida de lo que experimentan y adicionalmente, los comentarios e información dada de la prueba serán más claros. La segunda, permitirá a los usuarios mantenerse enfocados, en las funcionalidades o caminos dedicados a la prueba, dejando de lado otros enfoques del producto.                                     
 
             p.text-white(data-aos="fade-down") Ahora, para poder hacer pruebas de usabilidad será importante tener en cuenta las siguientes fases:
 
@@ -184,7 +184,7 @@
                   SlyderA(tipo="b")
                     div.text-center
                       h5 #[mark.bgtg.px-2 Decidir qué parte del producto será probado]
-                      p.text-white.mt-4 Si el equipo de trabajo tiene dudas sobre alguna zona o parte del producto ,será necesario decidir si estará dentro de las pruebas que se realizarán, con la finalidad de identificar aciertos y oportunidades de mejora.         
+                      p.text-white.mt-4 Si el equipo de trabajo tiene dudas sobre alguna zona o parte del producto, será necesario decidir si estará dentro de las pruebas que se realizarán, con la finalidad de identificar aciertos y oportunidades de mejora.         
                     div.text-center
                       h5 #[mark.bgtg.px-2 Elegir qué tareas serán caso de estudio]
                       p.text-white.mt-4 Las tareas o acciones ejecutadas por los participantes, deben estar alineadas a los objetivos más comunes de los usuarios, si se tiene un sitio de compras online, lo pertinente será probar el carro de compras.   
