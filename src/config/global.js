@@ -111,7 +111,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228128_CF16_DU.pdf',
       },
       {
         icono: 'fas fa-download',
