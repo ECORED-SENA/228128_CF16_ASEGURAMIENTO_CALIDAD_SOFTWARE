@@ -69,7 +69,7 @@
               .col-lg-auto.beat.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/10.png', alt='')       
               .col.my-3
-                h5(data-aos="fade-down").mb-0 Este proceso no se encuentra explícitamente orientado a un producto finalizado, sino por el contrario, se puede aplicar también a prototipos.                                                    
+                h5(data-aos="fade-down").mb-0 Este proceso no se encuentra explícitamente orientado a un producto finalizado, sino que, por el contrario, se puede aplicar también a prototipos.                                                    
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.1 Conceptos básicos  
@@ -313,7 +313,7 @@
       .col-lg-3.my-3
         .bg12.p-3.brad.h-100
           img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/41.svg', alt='')            
-          p(data-aos="fade-down").mb-0 Porcentaje de usuario que, después de dos horas de uso, recomendaría el producto. 
+          p(data-aos="fade-down").mb-0 Porcentaje de usuarios que, después de dos horas de uso, recomendaría el producto. 
 
     Separador 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -417,7 +417,7 @@
         .row.justify-content-center.align-items-center.p-2
           .col-lg-6.my-3.col-md-auto
             .t2.pe-5                     
-              h4.t3.mb-4 Google Analytics 
+              h4.t3.mb-4 Crazyegg
               p Esta herramienta permite entregar una gran cantidad de gráficos y datos basados en la cantidad de clics. Para hacer uso de esta herramienta se realiza la inserción de un  código en JavaScript en los sitios web que se desean evaluar. Al realizar una inspección de los clics dados por el usuario, la herramienta provee un mapa de calor, indicando cuáles son las zonas más atractivas para los usuarios.
 
               p Esta información ayuda a determinar cuáles pueden llegar a ser elementos distractores, lugares que están rotos o no funcionan, como hipervínculos que no llevan a ninguna zona y áreas que requieren ser más destacadas.  
@@ -429,7 +429,7 @@
               h4.t3.mb-4 Google Analytics 
               p Es una herramienta tradicional, que es usada para analizar estrategias de #[i marketing], pero a la vez sirve para conocer métricas de información respecto a la usabilidad y experiencia de usuario. Los datos pueden indicar posibles barreras que el usuario encuentra al momento de interactuar con el sitio. 
 
-              p Permite identificar búsquedas internas que realiza el usuario, dado detalles sobre los caminos o flujos que adopta el usuario al momento de navegar. También indica problemas de optimización del SEO y reportes si los usuarios encuentran interés en la información proporcionada en el sitio.  
+              p Permite identificar búsquedas internas que realiza el usuario, dando detalles sobre los caminos o flujos que adopta el usuario al momento de navegar. También indica problemas de optimización del SEO y reportes si los usuarios encuentran interés en la información proporcionada en el sitio.  
           .col-lg-5.my-3.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/55.png', alt="") 
         .row.justify-content-center.align-items-center.p-2
@@ -465,5 +465,7 @@ export default {
   },
 }
 </script>
-
-<style lang="sass"></style>
+<style lang="sass">
+.pasos-b__header__item__tittle
+  color: #fff
+</style>

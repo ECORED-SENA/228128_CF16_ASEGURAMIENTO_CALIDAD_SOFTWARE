@@ -172,7 +172,7 @@
                   div(titulo="Pruebas de usabilidad remota no moderada")
                     p Este tipo de pruebas tiene dos ventajas, la primera es que se realiza por medio de un #[i software] de terceros, el cual busca reclutar participantes, con lo que el enfoque será más en investigar y menos en reclutar. En segundo lugar, permitirá a los usuarios interactuar con el producto en su entorno natural, el #[i software] usado permite grabar audio y video. Cabe destacar que el permitir que los usuarios interactúen con el producto en su entorno natural es enriquecedor, porque no habrá un experto que dé soporte y las máquinas usadas para su aplicación serán las propias.  
                   div(titulo="Pruebas de usabilidad moderadas")
-                    p Este tipo de pruebas tiene dos ventajas, la primera es interactuar con los participantes en tiempo real, sea por medio de una llamada telefónica o video llamada, con lo que será posible tener una retroalimentación rápida de lo que experimentan y adicionalmente, los comentarios e información dada de la prueba serán más claros. La segunda, permitirá a los usuarios mantenerse enfocados, en las funcionalidades o caminos dedicados a la prueba, dejando de lado otros enfoques del producto.                                     
+                    p Este tipo de pruebas tiene dos ventajas, la primera es interactuar con los participantes en tiempo real, sea por medio de una llamada telefónica o videollamada, con lo que será posible tener una retroalimentación rápida de lo que experimentan y adicionalmente, los comentarios e información dada de la prueba serán más claros. La segunda, permitirá a los usuarios mantenerse enfocados, en las funcionalidades o caminos dedicados a la prueba, dejando de lado otros enfoques del producto.                                     
 
             p.text-white(data-aos="fade-down") Ahora, para poder hacer pruebas de usabilidad será importante tener en cuenta las siguientes fases:
 
@@ -226,10 +226,10 @@
                   img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/82.png', alt='')            
                   p(data-aos="fade-down").mb-0 Cuando los participantes tengan preguntas como ¿esto qué hace?, la respuesta debería ser ¿qué espera que haga?  
 
-    p(data-aos="fade-down").mb-5 Posteriormente, al realizar las pruebas de usabilidad, #[b.t1 es importante evaluar las métricas de usabilidad que previamente fueron expuestas, tales como:]    
+    p(data-aos="fade-down").mb-4 Posteriormente, al realizar las pruebas de usabilidad, #[b.t1 es importante evaluar las métricas de usabilidad que previamente fueron expuestas, tales como:]    
 
     .row.justify-content-center.align-items-center
-      .col-4
+      .col-12.col-lg-4
         .bg2.brad.p-3.my-3(data-aos="fade-down")
           .row.justify-content-center.align-items-top          
             .col-lg.my-1.col-md-12
