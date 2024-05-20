@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido.mb-0(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 2
-      h1 Métricas de usabilidad
+      h1 Documentación de la evaluación
     .row.bg18.align-items-center.pt-5.mb-5(data-aos="fade-left")
       .col-lg-12.col-12.px-lg-5.px-4 
         .row.justify-content-center.align-items-center          
